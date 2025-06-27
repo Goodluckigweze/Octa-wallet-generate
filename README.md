@@ -1,5 +1,5 @@
 # Octa-wallet-generate
-you can now generate a testnet wallet by following this instruction
+'you can now generate a testnet wallet by following this instruction'
 curl -fsSL https://bun.sh/install | bash
 sudo ufw allow 8888
 sudo snap install bun-js
